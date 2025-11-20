@@ -1,4 +1,4 @@
-# RExperimenting with UvA AI Chat and R
+# Experimenting with UvA AI Chat and R
 
 A repository for experiments with the [UvA AI Chat](https://www.uva.nl/en/about-the-uva/about-the-university/ai/ai-in-education/uva-ai-chat/uva-ai-chat.html) API.
 
