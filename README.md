@@ -7,7 +7,7 @@ The R-script [`Minimal-example-ellmer.R`](https://github.com/JoachimGoedhart/UvA
 An API key is required and it can be stored in the `.Renviron` file by adding this code for defining global variables:
 
 ```
-OPENAI_BASE_URL = https://ai-research-proxy.azurewebsites.net/
+OPENAI_BASE_URL = https://llmproxy.uva.nl
 
 OPENAI_API_KEY = "sk-replace_with_actual_APIkey"
 ```
